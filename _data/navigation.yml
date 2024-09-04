@@ -10,11 +10,15 @@
      url: "/overview/"
    - title: "Team"
      url: "/team/"
+   - title: "Contributors"
+     url: "/contributors/"
 
 - title: "Events"
   url: "/"
   side: left
   dropdown:
+    - title: "Bootcamp24"
+      url: "/bootcamp24/"
     - title: "Bootcamp23"
       url: "/bootcamp23/"
     - title: "Workshops"
